@@ -1,0 +1,3 @@
+test:
+  env: pro-environment
+  profile: pro-profile

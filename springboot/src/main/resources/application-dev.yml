@@ -1,0 +1,3 @@
+test:
+  env: dev-environment
+  profile: dev-profile

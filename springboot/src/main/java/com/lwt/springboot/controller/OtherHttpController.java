@@ -26,6 +26,7 @@ public class OtherHttpController {
         params.clear();
         params.put("id",id);
         params.put("pwd",pwd);
+        params.put("a","aa");
         return params;
     }
 
