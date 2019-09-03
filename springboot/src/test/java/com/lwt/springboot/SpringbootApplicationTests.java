@@ -21,8 +21,9 @@ public class SpringbootApplicationTests {
         logger.trace("这是trace");
         logger.debug("这是debug");
         logger.info("这是info");
-        logger.info("这是warn");
-        logger.info("这是error");
+        logger.warn("这是warn");
+        logger.error("这是error");
+        System.out.println("===============================");
 
     }
 
